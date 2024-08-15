@@ -1,2 +1,4 @@
 # git
-<p>Hello world </p>
+this is first git repository
+<br>
+Author - Shaik Adnan
